@@ -19,5 +19,5 @@ La política de derechos de autor del conjunto de datos es compatible con la lic
 La visualización en formato web se encuentra disponible en el siguiente enlace:
 https://rivascalduch.github.io/Dashboard_COVID19_vaccine_EU_EEA_web/
 
-## Ficheros con datos de los graficos 
+## Ficheros con los datos de los gráficos 
 * **data/**: Esta carpeta contiene los datos de las visualizaciones en formato Excel.
