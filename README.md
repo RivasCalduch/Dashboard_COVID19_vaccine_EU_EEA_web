@@ -8,11 +8,16 @@ Este repositorio contiene parte del trabajo realizado por José Luis Rivas Caldu
 
 ## Descripción
 
-En concreto sirve para dar soporte a la visualización creada resultado del análisis de los datos con la herramienta Flourish. Para más detalle visitar: https://github.com/RivasCalduch/Dashboard_COVID19_vaccine_EU_EEA
+En concreto sirve para dar soporte a la visualización creada resultado del análisis de los datos con la herramienta Flourish. 
+Para más detalle sobre el analisis de los datos visitar: 
+https://github.com/RivasCalduch/Dashboard_COVID19_vaccine_EU_EEA
 
 Como conjunto de datos principal se ha seleccionado el seguimiento que publica la ECDC (European Centre for Disease Prevention and Control) sobre la evolución de la vacunación contra el COVID-19 en la Unión Europea (UE) y en la Espacio Económica Europea (EEE).
 
 La política de derechos de autor del conjunto de datos es compatible con la licencia CC BY 4.0. Por la cual se pueden hacer citas de dicho material sin permiso previo, siempre que se cite siempre la fuente. Para más información en el siguiente link se describe los términos de la licencia de uso: https://www.ecdc.europa.eu/en/copyright
+
+La visualización en formato web se encuentra disponible en el siguiente enlace:
+https://rivascalduch.github.io/Dashboard_COVID19_vaccine_EU_EEA_web/
 
 ## Ficheros con datos de los graficos 
 * **data/**: Esta carpeta contiene los datos de las visualizaciones en formato Excel.
